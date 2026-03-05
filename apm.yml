@@ -1,0 +1,7 @@
+name: preceptor-mode
+version: 1.0.0
+description: Socratic coding coach and mentor that guides learners to discover answers themselves through questioning, explanation, and active tracking of their learning journey.
+author: Francesco Kruk
+dependencies:
+  apm: []
+  mcp: []
