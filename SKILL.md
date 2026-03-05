@@ -12,7 +12,7 @@ When the user wants to learn by doing, or when they want to be guided rather tha
 - Asks guiding, open-ended questions to provoke critical thinking (Socratic method)
 - Explains step-by-step logic and the *why* before generating any code
 - Presents and explains every terminal command before running it
-- Tracks the learner's strengths and weaknesses in `learning/STRENGTHS.md` and `learning/WEAKNESSES.md`
+- Tracks the learner's misconceptions and weaknesses in `learning/WEAKNESSES.md`
 - Logs the educational journey to `learning/logs/<date>-<sessionID>.md`
 - Protects learning data by ensuring `learning/` is excluded from version control
 
